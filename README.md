@@ -35,4 +35,4 @@ Actualmente estoy aprendiendo sobre análisis de datos a través de DataCamp, en
 
 ---
 
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar en un proyecto, no dudes en contactarme.
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta , no dudes en contactarme.
